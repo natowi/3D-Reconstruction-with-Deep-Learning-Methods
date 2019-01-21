@@ -9,3 +9,6 @@ https://github.com/angeladai/ScanComplete
 https://github.com/jgwak/McRecon
 
 http://3d-r2n2.stanford.edu/
+
+# Depth Prediction
+http://campar.in.tum.de/Chair/ProjectDepthPrediction
