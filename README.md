@@ -10,5 +10,7 @@ https://github.com/jgwak/McRecon
 
 http://3d-r2n2.stanford.edu/
 
+https://openreview.net/forum?id=SkNEsmJwf
+
 # Depth Prediction
 http://campar.in.tum.de/Chair/ProjectDepthPrediction
