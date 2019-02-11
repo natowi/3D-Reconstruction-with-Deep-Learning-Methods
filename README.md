@@ -21,3 +21,6 @@ https://github.com/timzhang642/3D-Machine-Learning
 
 # Depth Prediction
 http://campar.in.tum.de/Chair/ProjectDepthPrediction
+
+# Estimated-Depth-Map-Helps-Image-Classification
+https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification
