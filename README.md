@@ -1,17 +1,45 @@
 # 3D-Reconstruction-with-Neural-Network
 
-# https://github.com/micmelesse/3D-reconstruction-with-Neural-Networks
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iI6ZMST8Ri0/0.jpg)](https://www.youtube.com/watch?v=iI6ZMST8Ri0)
-
 # List
 https://github.com/timzhang642/3D-Machine-Learning
 
-# https://github.com/angeladai/ScanComplete
-[<img src="images/teaser_mesh.jpg">](https://arxiv.org/abs/1712.10215)
+# Repository for 3D-LMNet: Latent Embedding Matching for Accurate and Diverse 3D Point Cloud Reconstruction from a Single Image [BMVC 2018]
 
+https://github.com/val-iisc/3d-lmnet 
 
-# https://github.com/jgwak/McRecon
-![main figure](http://cvgl.stanford.edu/mcrecon/figures/main.png)
+3D-LMNet is a latent embedding matching approach for 3D point cloud reconstruction from a single image. To better incorporate the data prior and generate meaningful reconstructions, we first train a 3D point cloud auto-encoder and then learn a mapping from the 2D image to the corresponding learnt embedding. For a given image, there may exist multiple plausible 3D reconstructions depending on the object view. To tackle the issue of uncertainty in the reconstruction, we predict multiple reconstructions that are consistent with the input view, by learning a probablistic latent space using a view-specific ‘diversity loss’. We show that learning a good latent space of 3D objects is essential for the task of single-view 3D reconstruction.
+
+# Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image
+
+https://github.com/fangchangma/sparse-to-dense.pytorch 
+
+This repo implements the training and testing of deep regression neural networks for "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" by Fangchang Ma and Sertac Karaman at MIT. A video demonstration is available on YouTube.
+
+# Learning to Find Good Correspondences (CVPR 2018)
+
+https://github.com/vcg-uvic/learned-correspondence-release 
+
+Learning to Find Good Correspondences (CVPR 2018) This repository is a reference implementation for K. Yi*, E. Trulls*, Y. Ono, V. Lepetit, M. Salzmann, and P. Fua, "Learning to Find Good Correspondences", CVPR 2018 (* equal contributions). If you use this code in your research, please cite the paper.
+
+# DeepMVS
+
+https://github.com/phuang17/DeepMVS 
+
+DeepMVS is a Deep Convolutional Neural Network which learns to estimate pixel-wise disparity maps from a sequence of an arbitrary number of unordered images with the camera poses already known or estimated.
+
+# 3D-reconstruction-with-Neural-Networks
+
+https://github.com/micmelesse/3D-reconstruction-with-Neural-Networks
+
+3D reconstruction with neural networks using Tensorflow. See link for Video (https://www.youtube.com/watch?v=iI6ZMST8Ri0) 
+
+# ScanComplete
+
+https://github.com/angeladai/ScanComplete
+
+# McRecon
+
+https://github.com/jgwak/McRecon
 
 # http://3d-r2n2.stanford.edu/
 ![fig](http://3d-r2n2.stanford.edu/imgs/overview.png)
