@@ -52,3 +52,7 @@ http://campar.in.tum.de/Chair/ProjectDepthPrediction
 
 # Estimated-Depth-Map-Helps-Image-Classification
 https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification
+
+
+# deep fundamental matrix
+http://vladlen.info/papers/deep-fundamental.pdf
