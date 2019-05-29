@@ -15,6 +15,9 @@ https://github.com/fangchangma/sparse-to-dense.pytorch
 
 This repo implements the training and testing of deep regression neural networks for "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" by Fangchang Ma and Sertac Karaman at MIT. A video demonstration is available on YouTube.
 
+# google-deep-learning-depth-prediction
+https://www.digitalproduction.com/2019/05/27/google-deep-learning-depth-prediction/
+
 # Learning to Find Good Correspondences (CVPR 2018)
 
 https://github.com/vcg-uvic/learned-correspondence-release 
