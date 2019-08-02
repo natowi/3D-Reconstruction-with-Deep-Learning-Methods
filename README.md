@@ -59,3 +59,6 @@ https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification
 
 # deep fundamental matrix
 http://vladlen.info/papers/deep-fundamental.pdf
+
+# Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction 
+https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
