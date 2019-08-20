@@ -3,6 +3,11 @@
 # List
 https://github.com/timzhang642/3D-Machine-Learning
 
+
+# SLAM and Deep Learning for 3DIndoor Scene Understanding
+
+https://www.doc.ic.ac.uk/~ajd/Publications/McCormac-J-2019-PhD-Thesis.pdf
+
 # Repository for 3D-LMNet: Latent Embedding Matching for Accurate and Diverse 3D Point Cloud Reconstruction from a Single Image [BMVC 2018]
 
 https://github.com/val-iisc/3d-lmnet 
