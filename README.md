@@ -3,6 +3,9 @@
 # List
 https://github.com/timzhang642/3D-Machine-Learning
 
+# Depth map estimation based on deep learning (WIP)
+
+https://github.com/Dok11/nn-dldm
 
 # SLAM and Deep Learning for 3DIndoor Scene Understanding
 
