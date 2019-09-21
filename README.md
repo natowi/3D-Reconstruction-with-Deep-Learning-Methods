@@ -13,6 +13,15 @@ https://medium.com/datadriveninvestor/depth-estimation-with-deep-neural-networks
 https://github.com/MahmoudSelmy/DeeperDepthEstimation
 https://github.com/MahmoudSelmy/DepthEstimationVGG/blob/master/README.md
 
+# depth_estimation
+https://towardsdatascience.com/depth-estimation-on-camera-images-using-densenets-ac454caa893
+
+https://github.com/priya-dwivedi/Deep-Learning/tree/master/depth_estimation
+
+# High Quality Monocular Depth Estimation via Transfer Learning 
+https://arxiv.org/abs/1812.11941
+https://github.com/ialhashim/DenseDepth
+
 # SLAM and Deep Learning for 3DIndoor Scene Understanding
 
 https://www.doc.ic.ac.uk/~ajd/Publications/McCormac-J-2019-PhD-Thesis.pdf
