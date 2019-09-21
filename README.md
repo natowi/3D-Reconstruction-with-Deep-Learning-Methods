@@ -7,6 +7,12 @@ https://github.com/timzhang642/3D-Machine-Learning
 
 https://github.com/Dok11/nn-dldm
 
+# Depth estimation with deep Neural networks
+https://medium.com/@omarbarakat1995/depth-estimation-with-deep-neural-networks-part-1-5fa6d2237d0d
+https://medium.com/datadriveninvestor/depth-estimation-with-deep-neural-networks-part-2-81ee374888eb
+https://github.com/MahmoudSelmy/DeeperDepthEstimation
+https://github.com/MahmoudSelmy/DepthEstimationVGG/blob/master/README.md
+
 # SLAM and Deep Learning for 3DIndoor Scene Understanding
 
 https://www.doc.ic.ac.uk/~ajd/Publications/McCormac-J-2019-PhD-Thesis.pdf
