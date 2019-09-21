@@ -85,3 +85,18 @@ http://vladlen.info/papers/deep-fundamental.pdf
 
 # Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction 
 https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
+
+
+-------
+
+https://github.com/dontLoveBugs/FCRN_pytorch
+https://github.com/timctho/VNect-tensorflow
+https://github.com/fangchangma/sparse-to-dense
+https://github.com/OniroAI/MonoDepth-PyTorch
+https://github.com/Huangying-Zhan/Depth-VO-Feat
+https://github.com/gautam678/Pix2Depth
+https://github.com/lmb-freiburg/deeptam
+https://github.com/Yevkuzn/semodepth
+https://github.com/CVLAB-Unibo/Semantic-Mono-Depth
+https://github.com/JunjH/Visualizing-CNNs-for-monocular-depth-estimation
+https://github.com/adahbingee/pais-mvs
