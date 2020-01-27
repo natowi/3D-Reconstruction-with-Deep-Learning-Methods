@@ -3,6 +3,9 @@
 # List
 https://github.com/timzhang642/3D-Machine-Learning
 
+# pytorch3d
+https://github.com/facebookresearch/pytorch3d
+
 # Depth map estimation based on deep learning (WIP)
 
 https://github.com/Dok11/nn-dldm
