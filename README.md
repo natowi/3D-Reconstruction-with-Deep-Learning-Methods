@@ -276,6 +276,7 @@ https://github.com/facebookresearch/meshrcnn
 
 https://github.com/mikacuy/pointnetvlad
 
+https://github.com/hiroharu-kato/mesh_reconstruction
 
 
 
