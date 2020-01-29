@@ -278,7 +278,7 @@ https://github.com/mikacuy/pointnetvlad
 
 https://github.com/hiroharu-kato/mesh_reconstruction
 
-
+https://github.com/fangchangma/self-supervised-depth-completion
 
 
 
