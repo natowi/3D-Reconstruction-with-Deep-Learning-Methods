@@ -62,236 +62,110 @@ https://github.com/micmelesse/3D-reconstruction-with-Neural-Networks
 
 3D reconstruction with neural networks using Tensorflow. See link for Video (https://www.youtube.com/watch?v=iI6ZMST8Ri0) 
 
-# ScanComplete
 
-https://github.com/angeladai/ScanComplete
 
-# McRecon
-
-https://github.com/jgwak/McRecon
-
-# http://3d-r2n2.stanford.edu/
-![fig](http://3d-r2n2.stanford.edu/imgs/overview.png)
-
-
-# https://openreview.net/forum?id=SkNEsmJwf
-
-# Depth Prediction
-http://campar.in.tum.de/Chair/ProjectDepthPrediction
-
-# Estimated-Depth-Map-Helps-Image-Classification
-https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification
-
-
-# deep fundamental matrix
-http://vladlen.info/papers/deep-fundamental.pdf
-
-# Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction 
-https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
-
-# ICRA 2018 "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (PyTorch Implementation)
-https://github.com/fangchangma/sparse-to-dense.pytorch
-
-# A Framework for the Volumetric Integration of Depth Images http://www.infinitam.org
-https://github.com/victorprad/InfiniTAM
-
-# SurfelWarp: Efficient Non-Volumetric Dynamic Reconstruction https://sites.google.com/view/surfelw…
-https://github.com/weigao95/surfelwarp
-
-# official implementation of "Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries"
-https://github.com/JunjH/Revisiting_Single_Depth_Estimation
-
-# Neural Vanishing Point Scanning via Conic Convolution
-https://github.com/zhou13/neurvps
-
-# Old Motion R-CNN codebase
-https://github.com/simonmeister/old-motion-rcnn
-
-# DeMoN: Depth and Motion Network
-https://github.com/lmb-freiburg/demon
-
-# Implementation of CVPR'19 paper (oral) - ContextDesc: Local Descriptor Augmentation with Cross-Modality Context
-https://github.com/lzx551402/contextdesc
-
-# Code release for "3D-RelNet: Joint Object and Relation Network for 3D prediction"
-https://github.com/nileshkulkarni/relative3d
-
-# GL3D (Geometric Learning with 3D Reconstruction): a large-scale database created for 3D reconstruction and geometry-related learning problems
-https://github.com/lzx551402/GL3D
-
-# An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.
-https://github.com/OctoMap/octomap
-
-# Using Deep learning Technique for Stereo vision and 3D reconstruction
-https://github.com/jiafeng5513/EvisionNet
-
-# Semantic-TSDF for Self-driving Static Scene Reconstruction
-https://github.com/irsisyphus/semantic-tsdf
-
-# Deep Single-View 3D Object Reconstruction with Visual Hull Embedding
-https://github.com/qweas120/PSVH-3d-reconstruction
-
-# Implementation for "Adversarial Semantic Scene Completion from a Single Depth Image" in 3DV 2018
-https://github.com/wangyida/gan-depth-semantic3d
-
-# Morphing and Sampling Network for Dense Point Cloud Completion (AAAI2020)
-https://github.com/Colin97/MSN-Point-Cloud-Completion
-
-# MIRorR: Matchable Image Retrieval by Learning from Surface Reconstruction
-https://github.com/hlzz/mirror
-
-# Implementation for paper "Learning Single-View 3D Reconstruction with Limited Pose Supervision".
-https://github.com/stevenygd/3d-recon
-
-# 3D-RecGAN++ in Tensorflow (TPAMI 2018) https://arxiv.org/abs/1802.00411
-https://github.com/Yang7879/3D-RecGAN-extended
-
--------To be added soon:
-
-https://github.com/dontLoveBugs/FCRN_pytorch
-
-https://github.com/timctho/VNect-tensorflow
-
-https://github.com/fangchangma/sparse-to-dense
-
-https://github.com/OniroAI/MonoDepth-PyTorch
-
-https://github.com/Huangying-Zhan/Depth-VO-Feat
-
-https://github.com/gautam678/Pix2Depth
-
-https://github.com/lmb-freiburg/deeptam
-
-https://github.com/Yevkuzn/semodepth
-
-https://github.com/CVLAB-Unibo/Semantic-Mono-Depth
-
-https://github.com/JunjH/Visualizing-CNNs-for-monocular-depth-estimation
-
-https://github.com/adahbingee/pais-mvs
-
-https://github.com/princeton-vl/DeepV2D
-
-https://github.com/walsvid/Pixel2MeshPlusPlus
-
-https://github.com/wentaoyuan/pcn
-
-https://github.com/shubhtuls/factored3d
-
-https://github.com/zouchuhang/LayoutNet
-
-https://github.com/Lotayou/densebody_pytorch
-
-https://github.com/ScanNet/ScanNet
-
-https://github.com/Shaggyshak/CS543_project_Image-based-Localization-of-Bridge-Defects-with-AR-Visualization
-
-https://github.com/laughtervv/DISN
-
-https://github.com/AliAbbasi/Deep-3D-Semantic-Scene-Extrapolation
-
-https://github.com/EdwardSmith1884/3D-IWGAN
-
-https://github.com/goncalo120/3DRegNet
-
-https://github.com/Ajithbalakrishnan/3D-Object-Reconstruction-from-Multi-View-Monocular-RGB-images
-
-https://github.com/Xharlie/DISN
-
-https://github.com/orendv/learning_to_sample
-
-https://github.com/neycyanshi/DDRNet
-
-https://github.com/zgojcic/3DSmoothNet
-
-https://github.com/lppllppl920/EndoscopyDepthEstimation-Pytorch
-
-https://github.com/yan99033/CNN-SVO
-
-https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping
-
-https://github.com/NVlabs/planercnn
-
-https://github.com/shichaoy/semantic_3d_mapping
-
-https://github.com/sshan-zhao/GASDA
-
-https://github.com/Yinghao-Li/3DMM-fitting
-
-https://github.com/nbelakovski/topography_neural_net
-
-https://github.com/intel-isl/Open3D-PointNet
-
-https://github.com/fxia22/pointnet.pytorch
-
-https://github.com/ElliotHYLee/Deep_Visual_Inertial_Odometry
-
-https://github.com/fshamshirdar/DeepVO
-
-https://github.com/krrish94/DeepVO
-
-https://github.com/huayong/dl-vision-papers
-
-https://github.com/JiawangBian/SC-SfMLearner-Release
-
-https://github.com/MightyChaos/LKVOLearner
-
-https://github.com/JunjH/Visualizing-CNNs-for-monocular-depth-estimation
-
-https://github.com/Yevkuzn/semodepth
-
-https://github.com/Huangying-Zhan/Depth-VO-Feat
-
-https://github.com/OniroAI/MonoDepth-PyTorch
-
-https://github.com/fangchangma/sparse-to-dense
-
-https://github.com/timctho/VNect-tensorflow
-
-https://github.com/dontLoveBugs/FCRN_pytorch
-
-https://github.com/MahmoudSelmy/DepthEstimationVGG
-
-https://github.com/MahmoudSelmy/DeeperDepthEstimation
-
-https://github.com/Dok11/nn-dldm
-
-https://github.com/HKUST-Aerial-Robotics/MVDepthNet
-
-https://github.com/Ewenwan/MVision
-
-https://github.com/hlzz/DeepMatchVO
-
-https://github.com/nianticlabs/monodepth2
-
-https://github.com/charlesq34/pointnet
-
-https://github.com/francescopittaluga/invsfm
-
-https://github.com/BingCS/AtLoc
-
-https://github.com/ChiWeiHsiao/DeepVO-pytorch
-
-https://github.com/facebookresearch/meshrcnn
-
-https://github.com/mikacuy/pointnetvlad
-
-https://github.com/hiroharu-kato/mesh_reconstruction
-
-https://github.com/fangchangma/self-supervised-depth-completion
-
-https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo
-
-https://github.com/FangGet/PackNet-SFM-PyTorch
-
-https://github.com/stanfordvl/MinkowskiEngine
-
-https://github.com/chrischoy/FCGF
-
-https://github.com/yewzijian/3DFeatNet
-
-https://github.com/StanfordVL/3DSceneGraph
-
-https://github.com/DLR-RM/BlenderProc
-
-https://github.com/yewzijian/3DFeatNet
+| TITLE                                                        | KEYWORDS                    | URL                                                          | LICENSE              |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ | -------------------- |
+|                                                              |                             |                                                              |                      |
+| Depth Estimation from a Single RGB Image                     |                             | http://campar.in.tum.de/Chair/ProjectDepthPrediction         |                      |
+| Deep Fundamental Matrix Estimation                           |                             | http://vladlen.info/papers/deep-fundamental.pdf              |                      |
+| Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction |                             | https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html |                      |
+| Dense 3D Object Reconstruction from a Single Depth View      | 3D-RecGAN++                 | https://arxiv.org/abs/1802.00411                             |                      |
+| High Quality Monocular Depth Estimation via Transfer Learning | TensorFlow, PyTorch         | https://github.com/ialhashim/DenseDepth                      |                      |
+| Multi-view stereo image-based 3D reconstruction              |                             | https://github.com/adahbingee/pais-mvs                       |                      |
+| Hybrid Ensemble Approach For 3D Object Reconstruction from Multi-View Monocular RGB images |                             | https://github.com/Ajithbalakrishnan/3D-Object-Reconstruction-from-Multi-View-Monocular-RGB-images |                      |
+| Deep 3D Semantic Scene Extrapolation                         | hybrid CNN, GAN, TensorFlow | https://github.com/AliAbbasi/Deep-3D-Semantic-Scene-Extrapolation |                      |
+| ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans | TensorFlow                  | https://github.com/angeladai/ScanComplete                    |                      |
+| AtLoc: Attention Guided Camera Localization                  | PyTorch                     | https://github.com/BingCS/AtLoc                              |                      |
+| PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation | TensorFlow, cuDNN           | https://github.com/charlesq34/pointnet                       | MIT License          |
+| PyTorch Implementation of DeepVO                             | PyTorch, CNN                | https://github.com/ChiWeiHsiao/DeepVO-pytorch                | nn                   |
+| Fully Convolutional Geometric Features: Fast and accurate 3D features for registration and correspondence. | PyTorch                     | https://github.com/chrischoy/FCGF                            | MIT License          |
+| Morphing and Sampling Network for Dense Point Cloud Completion (AAAI2020) | PyTorch                     | https://github.com/Colin97/MSN-Point-Cloud-Completion        | Apache-2.0           |
+| Real-Time Self-Adaptive Deep Stereo                          | TensorFlow                  | https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo | Apache-2.0           |
+| Geometry meets semantics for semi-supervised monocular depth estimation - ACCV 2018 | TensorFlow                  | https://github.com/CVLAB-Unibo/Semantic-Mono-Depth           | MIT License          |
+| BlenderProc: A procedural blender pipeline to generate images for deep learning |                             | https://github.com/DLR-RM/BlenderProc                        | GPL-3.0              |
+| NNCAP — Neural Network Complex Approach to Photogrammetry    |                             | https://github.com/Dok11/nn-dldm                             | nn                   |
+| Pytorch Implementation of Deeper Depth Prediction with Fully Convolutional Residual Networks | PyTorch                     | https://github.com/dontLoveBugs/FCRN_pytorch                 | nn                   |
+| Improved Adversarial Systems for 3D Object Generation and Reconstruction | GAN                         | https://github.com/EdwardSmith1884/3D-IWGAN                  | MIT License          |
+| Deep Learning for Visual-Inertial Odometry                   | PyTorch, CNN                | https://github.com/ElliotHYLee/Deep_Visual_Inertial_Odometry | MIT License          |
+| Machine Vision                                               | List                        | https://github.com/Ewenwan/MVision                           | nn                   |
+| Mesh R-CNN, an academic publication, presented at ICCV 2019  | PyTorch, R-CNN              | https://github.com/facebookresearch/meshrcnn                 | BSD-3-Clause License |
+| PyTorch3d is FAIR's library of reusable components for deep learning with 3D data. | PyTorch                     | https://github.com/facebookresearch/pytorch3d                | BSD-3-Clause License |
+| Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera | PyTorch                     | https://github.com/fangchangma/self-supervised-depth-completion | MIT License          |
+| Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image | PyTorch                     | https://github.com/fangchangma/sparse-to-dense               | BSD License          |
+| Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image | PyTorch                     | https://github.com/fangchangma/sparse-to-dense.pytorch       |                      |
+| PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation | PyTorch                     | https://github.com/FangGet/PackNet-SFM-PyTorch               | GPL-3.0              |
+| InvSFM: Revealing Scenes by Inverting Structure from Motion Reconstructions [CVPR 2019] | TensorFlow                  | https://github.com/francescopittaluga/invsfm                 | MIT License          |
+| Deep Monocular Visual Odometry using PyTorch (Experimental)  | PyTorch                     | https://github.com/fshamshirdar/DeepVO                       | nn                   |
+| PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation | PyTorch                     | https://github.com/fxia22/pointnet.pytorch                   | MIT License          |
+| Pix2Depth - Depth Map Estimation from Monocular Image        | Keras                       | https://github.com/gautam678/Pix2Depth                       | GPL-3.0              |
+| 3DRegNet: A Deep Neural Network for 3D Point Registration    | TensorFlow                  | https://github.com/goncalo120/3DRegNet                       | MIT License          |
+| Neural 3D Mesh Renderer – Single-Image 3D Reconstruction using Neural Renderer |                             | https://github.com/hiroharu-kato/mesh_reconstruction         | MIT License          |
+| Real-time Scalable Dense Surfel Mapping                      |                             | https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping  | nn                   |
+| MVDepthNet: real-time multiview depth estimation neural network | PyTorch                     | https://github.com/HKUST-Aerial-Robotics/MVDepthNet          |                      |
+| DeepMatchVO: Beyond Photometric Loss for Self-Supervised Ego-Motion Estimation |                             | https://github.com/hlzz/DeepMatchVO                          | MIT License          |
+| MIRorR: Matchable Image Retrieval by Learning from Surface Reconstruction | TensorFlow, CNN             | https://github.com/hlzz/mirror                               | MIT License          |
+| Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction | Caffe                       | https://github.com/Huangying-Zhan/Depth-VO-Feat              | non-commercial       |
+|                                                              |                             | https://github.com/huayong/dl-vision-papers                  |                      |
+|                                                              |                             | https://github.com/intel-isl/Open3D-PointNet                 |                      |
+|                                                              |                             | https://github.com/irsisyphus/semantic-tsdf                  |                      |
+|                                                              |                             | https://github.com/jgwak/McRecon                             |                      |
+|                                                              |                             | https://github.com/jiafeng5513/EvisionNet                    |                      |
+|                                                              |                             | https://github.com/JiawangBian/SC-SfMLearner-Release         |                      |
+|                                                              |                             | https://github.com/JunjH/Revisiting_Single_Depth_Estimation  |                      |
+|                                                              |                             | https://github.com/JunjH/Visualizing-CNNs-for-monocular-depth-estimation |                      |
+|                                                              |                             | https://github.com/krrish94/DeepVO                           |                      |
+|                                                              |                             | https://github.com/laughtervv/DISN                           |                      |
+|                                                              |                             | https://github.com/lmb-freiburg/deeptam                      |                      |
+|                                                              |                             | https://github.com/lmb-freiburg/demon                        |                      |
+|                                                              |                             | https://github.com/Lotayou/densebody_pytorch                 |                      |
+|                                                              |                             | https://github.com/lppllppl920/EndoscopyDepthEstimation-Pytorch |                      |
+|                                                              |                             | https://github.com/lzx551402/contextdesc                     |                      |
+|                                                              |                             | https://github.com/lzx551402/GL3D                            |                      |
+|                                                              |                             | https://github.com/MahmoudSelmy/DeeperDepthEstimation        |                      |
+|                                                              |                             | https://github.com/MahmoudSelmy/DepthEstimationVGG           |                      |
+|                                                              |                             | https://github.com/micmelesse/3D-reconstruction-with-Neural-Networks |                      |
+|                                                              |                             | https://github.com/MightyChaos/LKVOLearner                   |                      |
+|                                                              |                             | https://github.com/mikacuy/pointnetvlad                      |                      |
+|                                                              |                             | https://github.com/nbelakovski/topography_neural_net         |                      |
+|                                                              |                             | https://github.com/neycyanshi/DDRNet                         |                      |
+|                                                              |                             | https://github.com/nianticlabs/monodepth2                    |                      |
+|                                                              |                             | https://github.com/nileshkulkarni/relative3d                 |                      |
+|                                                              |                             | https://github.com/NVlabs/planercnn                          |                      |
+|                                                              |                             | https://github.com/OctoMap/octomap                           |                      |
+|                                                              |                             | https://github.com/OniroAI/MonoDepth-PyTorch                 |                      |
+|                                                              |                             | https://github.com/orendv/learning_to_sample                 |                      |
+|                                                              |                             | https://github.com/phuang17/DeepMVS                          |                      |
+|                                                              |                             | https://github.com/princeton-vl/DeepV2D                      |                      |
+|                                                              |                             | https://github.com/priya-dwivedi/Deep-Learning/tree/master/depth_estimation |                      |
+|                                                              |                             | https://github.com/qweas120/PSVH-3d-reconstruction           |                      |
+|                                                              |                             | https://github.com/ScanNet/ScanNet                           |                      |
+|                                                              |                             | https://github.com/Shaggyshak/CS543_project_Image-based-Localization-of-Bridge-Defects-with-AR-Visualization |                      |
+|                                                              |                             | https://github.com/shichaoy/semantic_3d_mapping              |                      |
+|                                                              |                             | https://github.com/shubhtuls/factored3d                      |                      |
+|                                                              |                             | https://github.com/simonmeister/old-motion-rcnn              |                      |
+|                                                              |                             | https://github.com/sshan-zhao/GASDA                          |                      |
+|                                                              |                             | https://github.com/StanfordVL/3DSceneGraph                   |                      |
+|                                                              |                             | https://github.com/stanfordvl/MinkowskiEngine                |                      |
+|                                                              |                             | https://github.com/stevenygd/3d-recon                        |                      |
+|                                                              |                             | https://github.com/timctho/VNect-tensorflow                  |                      |
+|                                                              |                             | https://github.com/val-iisc/3d-lmnet                         |                      |
+|                                                              |                             | https://github.com/vcg-uvic/learned-correspondence-release   |                      |
+|                                                              |                             | https://github.com/victorprad/InfiniTAM                      |                      |
+|                                                              |                             | https://github.com/walsvid/Pixel2MeshPlusPlus                |                      |
+|                                                              |                             | https://github.com/wangyida/gan-depth-semantic3d             |                      |
+|                                                              |                             | https://github.com/weigao95/surfelwarp                       |                      |
+|                                                              |                             | https://github.com/wentaoyuan/pcn                            |                      |
+|                                                              |                             | https://github.com/Xharlie/DISN                              |                      |
+|                                                              |                             | https://github.com/yan99033/CNN-SVO                          |                      |
+|                                                              |                             | https://github.com/Yang7879/3D-RecGAN-extended               |                      |
+|                                                              |                             | https://github.com/Yevkuzn/semodepth                         |                      |
+|                                                              |                             | https://github.com/yewzijian/3DFeatNet                       |                      |
+|                                                              |                             | https://github.com/yihui-he/Estimated-Depth-Map-Helps-Image-Classification |                      |
+|                                                              |                             | https://github.com/Yinghao-Li/3DMM-fitting                   |                      |
+|                                                              |                             | https://github.com/zgojcic/3DSmoothNet                       |                      |
+|                                                              |                             | https://github.com/zhou13/neurvps                            |                      |
+|                                                              |                             | https://github.com/zouchuhang/LayoutNet                      |                      |
+|                                                              |                             | https://openreview.net/forum?id=SkNEsmJwf                    |                      |
+|                                                              |                             | https://www.digitalproduction.com/2019/05/27/google-deep-learning-depth-prediction/ |                      |
+|                                                              |                             | https://www.doc.ic.ac.uk/~ajd/Publications/McCormac-J-2019-PhD-Thesis.pdf |                      |
