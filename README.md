@@ -287,3 +287,11 @@ https://github.com/FangGet/PackNet-SFM-PyTorch
 https://github.com/stanfordvl/MinkowskiEngine
 
 https://github.com/chrischoy/FCGF
+
+https://github.com/yewzijian/3DFeatNet
+
+https://github.com/StanfordVL/3DSceneGraph
+
+https://github.com/DLR-RM/BlenderProc
+
+https://github.com/yewzijian/3DFeatNet
