@@ -283,3 +283,7 @@ https://github.com/fangchangma/self-supervised-depth-completion
 https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo
 
 https://github.com/FangGet/PackNet-SFM-PyTorch
+
+https://github.com/stanfordvl/MinkowskiEngine
+
+https://github.com/chrischoy/FCGF
