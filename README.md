@@ -1,8 +1,5 @@
 # 3D-Reconstruction-with-Neural-Network
 
-# List
-https://github.com/timzhang642/3D-Machine-Learning
-
 
 | TITLE                                                        | KEYWORDS                    | URL                                                          | LICENSE              |
 | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ | -------------------- |
@@ -109,6 +106,10 @@ https://github.com/timzhang642/3D-Machine-Learning
 |                                                              |                             | https://openreview.net/forum?id=SkNEsmJwf                    |                      |
 |                                                              |                             | https://www.digitalproduction.com/2019/05/27/google-deep-learning-depth-prediction/ |                      |
 |                                                              |                             | https://www.doc.ic.ac.uk/~ajd/Publications/McCormac-J-2019-PhD-Thesis.pdf |                      |
+
+# List
+https://github.com/timzhang642/3D-Machine-Learning
+
 
 WIP:
 
