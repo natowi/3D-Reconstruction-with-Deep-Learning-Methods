@@ -113,6 +113,9 @@ https://github.com/timzhang642/3D-Machine-Learning
 
 WIP:
 
+# Learning Less is More - 6D Camera Localization via 3D Surface Regression
+https://github.com/vislearn/LessMore
+
 # pytorch3d
 https://github.com/facebookresearch/pytorch3d
 
