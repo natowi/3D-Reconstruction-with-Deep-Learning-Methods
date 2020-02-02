@@ -116,6 +116,8 @@ WIP:
 # Learning Less is More - 6D Camera Localization via 3D Surface Regression
 https://github.com/vislearn/LessMore
 
+# https://github.com/hzxie/Pix2Vox
+
 # pytorch3d
 https://github.com/facebookresearch/pytorch3d
 
