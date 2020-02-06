@@ -116,9 +116,6 @@ https://github.com/vislearn/LessMore
 
 # https://github.com/hzxie/Pix2Vox
 
-# pytorch3d
-https://github.com/facebookresearch/pytorch3d
-
 # Depth estimation with deep Neural networks
 https://medium.com/@omarbarakat1995/depth-estimation-with-deep-neural-networks-part-1-5fa6d2237d0d
 https://medium.com/datadriveninvestor/depth-estimation-with-deep-neural-networks-part-2-81ee374888eb
@@ -127,8 +124,6 @@ https://github.com/MahmoudSelmy/DepthEstimationVGG/blob/master/README.md
 
 # depth_estimation
 https://towardsdatascience.com/depth-estimation-on-camera-images-using-densenets-ac454caa893
-
-https://github.com/priya-dwivedi/Deep-Learning/tree/master/depth_estimation
 
 # High Quality Monocular Depth Estimation via Transfer Learning 
 https://arxiv.org/abs/1812.11941
