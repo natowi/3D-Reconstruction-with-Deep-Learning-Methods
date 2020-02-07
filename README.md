@@ -116,6 +116,9 @@ https://github.com/vislearn/LessMore
 
 # https://github.com/hzxie/Pix2Vox
 
+# PlanarReconstruction: Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding 
+pyTorch https://github.com/svip-lab/PlanarReconstruction
+
 # Depth estimation with deep Neural networks
 https://medium.com/@omarbarakat1995/depth-estimation-with-deep-neural-networks-part-1-5fa6d2237d0d
 https://medium.com/datadriveninvestor/depth-estimation-with-deep-neural-networks-part-2-81ee374888eb
