@@ -111,6 +111,9 @@ https://github.com/timzhang642/3D-Machine-Learning
 
 WIP:
 
+# neural-volumes-learning-dynamic-renderable-volumes-from-images
+https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/
+
 # Learning Less is More - 6D Camera Localization via 3D Surface Regression
 https://github.com/vislearn/LessMore
 
