@@ -113,6 +113,8 @@ WIP:
 
 # neural-volumes-learning-dynamic-renderable-volumes-from-images
 https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/
+https://github.com/facebookresearch/neuralvolumes
+attribution non-commercial
 
 # Learning Less is More - 6D Camera Localization via 3D Surface Regression
 https://github.com/vislearn/LessMore
