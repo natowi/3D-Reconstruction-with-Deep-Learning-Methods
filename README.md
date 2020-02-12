@@ -119,6 +119,9 @@ attribution non-commercial
 # Learning Less is More - 6D Camera Localization via 3D Surface Regression
 https://github.com/vislearn/LessMore
 
+# Local features
+https://github.com/vcg-uvic/lf-net-release
+
 # https://github.com/hzxie/Pix2Vox
 
 # PlanarReconstruction: Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding 
