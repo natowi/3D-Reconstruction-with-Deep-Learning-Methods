@@ -105,11 +105,17 @@
 | 3D-Scene-GAN: Three-dimensional Scene Reconstruction with Generative Adversarial Networks | paper                       | https://openreview.net/forum?id=SkNEsmJwf                    |                                                              |
 | Google: Deep Learning Depth Prediction                       | magazine article, GER       | https://www.digitalproduction.com/2019/05/27/google-deep-learning-depth-prediction/ |                                                              |
 | SLAM and Deep Leraning for 3D Indoor Scene Understanding     | PhD thesis                  | https://www.doc.ic.ac.uk/~ajd/Publications/McCormac-J-2019-PhD-Thesis.pdf |                                                              |
+
 # List
 https://github.com/timzhang642/3D-Machine-Learning
 
+# Good overview
 
-WIP:
+# DEEP LEARNING-BASED 3D OBJECT RECONSTRUCTION - A SURVEY - Image-based 3D Object Reconstruction:State-of-the-Art and Trends in the DeepLearning Era
+https://arxiv.org/pdf/1906.06543.pdf
+
+
+# WIP:
 
 # neural-volumes-learning-dynamic-renderable-volumes-from-images
 https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/
