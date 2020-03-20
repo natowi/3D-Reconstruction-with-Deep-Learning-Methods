@@ -117,6 +117,10 @@ https://arxiv.org/pdf/1906.06543.pdf
 
 # WIP:
 
+# NeRF: Neural Radiance Fields
+
+https://github.com/bmild/nerf MIT license
+
 # neural-volumes-learning-dynamic-renderable-volumes-from-images
 https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/
 https://github.com/facebookresearch/neuralvolumes
