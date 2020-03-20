@@ -121,6 +121,10 @@ https://arxiv.org/pdf/1906.06543.pdf
 
 https://github.com/bmild/nerf MIT license
 
+# Local Light Field Fusion at SIGGRAPH 2019
+
+https://github.com/fyusion/llff GPL3
+
 # neural-volumes-learning-dynamic-renderable-volumes-from-images
 https://research.fb.com/publications/neural-volumes-learning-dynamic-renderable-volumes-from-images/
 https://github.com/facebookresearch/neuralvolumes
