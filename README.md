@@ -1,7 +1,4 @@
 # 3D-Reconstruction-with-Neural-Network
-# 3D-Reconstruction-with-Neural-Network
-
-
 
 **Projects released on Github**
 
