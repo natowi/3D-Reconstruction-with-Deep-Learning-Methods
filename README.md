@@ -108,6 +108,7 @@
 | PlanarReconstruction: Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | pytorch                     | https://github.com/svip-lab/PlanarReconstruction             |                                                              |             |
 | Depth estimation with deep Neural networks                   |                             | https://medium.com/@omarbarakat1995/depth-estimation-with-deep-neural-networks-part-1-5fa6d2237d0d<br/>https://medium.com/datadriveninvestor/depth-estimation-with-deep-neural-networks-part-2-81ee374888eb<br/>https://github.com/MahmoudSelmy/DeeperDepthEstimation<br/>https://github.com/MahmoudSelmy/DepthEstimationVGG/blob/master/README.md |                                                              |             |
 | High Quality Monocular Depth Estimation via Transfer Learning |                             | https://github.com/ialhashim/DenseDepth<br />https://arxiv.org/abs/1812.11941 |                                                              |             |
+| D3Feat                                                        |                             | https://github.com/XuyangBai/D3Feat               |                                                               |             |
 
 **Other Projects**
 
