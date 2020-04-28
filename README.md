@@ -137,3 +137,5 @@ https://github.com/karoly-hars/DE_resnet_unet_hyb
 https://github.com/svip-lab/PlanarReconstruction
 https://github.com/syinari0123/tridepth
 https://github.com/imran3180/depth-map-prediction
+https://github.com/karoly-hars/DE_resnet_unet_hyb
+https://github.com/jiajunwu/marrnet
