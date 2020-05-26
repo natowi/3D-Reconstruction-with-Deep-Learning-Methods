@@ -109,6 +109,29 @@
 | Depth estimation with deep Neural networks                   |                             | https://medium.com/@omarbarakat1995/depth-estimation-with-deep-neural-networks-part-1-5fa6d2237d0d<br/>https://medium.com/datadriveninvestor/depth-estimation-with-deep-neural-networks-part-2-81ee374888eb<br/>https://github.com/MahmoudSelmy/DeeperDepthEstimation<br/>https://github.com/MahmoudSelmy/DepthEstimationVGG/blob/master/README.md |                                                              |             |
 | High Quality Monocular Depth Estimation via Transfer Learning |                             | https://github.com/ialhashim/DenseDepth<br />https://arxiv.org/abs/1812.11941 |                                                              |             |
 | D3Feat                                                        |                             | https://github.com/XuyangBai/D3Feat               |                                                               |             |
+| Hierarchical Deep Stereo Matching on High Resolution Images  | pytorch           | https://github.com/gengshan-y/high-res-stereo                | MIT          |             |
+| Structure-Aware Residual Pyramid Network for Monocular Depth Estimation | pytorch           | https://github.com/Xt-Chen/SARPN                             | nn           |             |
+| Pytorch code to construct a 3D point cloud model from single RGB image. | pytorch           | https://github.com/lkhphuc/pytorch-3d-point-cloud-generation | nn           |             |
+| Depth estimation from RGB images using fully convolutional neural networks | pytorch           | https://github.com/karoly-hars/DE_resnet_unet_hyb            | BSD-3-Clause |             |
+| Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | torch, tensorflow | https://github.com/svip-lab/PlanarReconstruction             | MIT          |             |
+| TriDepth: Triangular Patch-based Deep Depth Prediction       | PyTorch           | https://github.com/syinari0123/tridepth                      | MIT          |             |
+| Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | torch             | https://github.com/imran3180/depth-map-prediction            | nn           |             |
+| Hybrid CNN for Single Image Depth Estimation                 | torch             | https://github.com/karoly-hars/DE_resnet_unet_hyb            | BSD-3-Clause |             |
+| MarrNet: 3D Shape Reconstruction via 2.5D Sketches           | torch             | https://github.com/jiajunwu/marrnet                          | nn           |             |
+| Consistent Video Depth Estimation                            |                   | https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/ | nn           |             |
+| HF-Net: Robust Hierarchical Localization at Large Scale      | torch, tensorflow | https://github.com/ethz-asl/hfnet                            | MIT          |             |
+| Hierarchical Deep Stereo Matching on High Resolution Images  | pytorch           | https://github.com/gengshan-y/high-res-stereo                | MIT          |             |
+| Structure-Aware Residual Pyramid Network for Monocular Depth Estimation | pytorch           | https://github.com/Xt-Chen/SARPN                             | nn           |             |
+| Pytorch code to construct a 3D point cloud model from single RGB image. | pytorch           | https://github.com/lkhphuc/pytorch-3d-point-cloud-generation | nn           |             |
+| Depth estimation from RGB images using fully convolutional neural networks | pytorch           | https://github.com/karoly-hars/DE_resnet_unet_hyb            | BSD-3-Clause |             |
+| Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | torch, tensorflow | https://github.com/svip-lab/PlanarReconstruction             | MIT          |             |
+| TriDepth: Triangular Patch-based Deep Depth Prediction       | PyTorch           | https://github.com/syinari0123/tridepth                      | MIT          |             |
+| Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | torch             | https://github.com/imran3180/depth-map-prediction            | nn           |             |
+| Hybrid CNN for Single Image Depth Estimation                 | torch             | https://github.com/karoly-hars/DE_resnet_unet_hyb            | BSD-3-Clause |             |
+| MarrNet: 3D Shape Reconstruction via 2.5D Sketches           | torch             | https://github.com/jiajunwu/marrnet                          | nn           |             |
+| Consistent Video Depth Estimation                            |                   | https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/ | nn           |             |
+| HF-Net: Robust Hierarchical Localization at Large Scale      | torch, tensorflow | https://github.com/ethz-asl/hfnet                            | MIT          |             |
+
 
 **Other Projects**
 
@@ -130,26 +153,4 @@
 |                                                              |                       |                                                              |         |
 
 
-ToDo
 
-https://github.com/gengshan-y/high-res-stereo
-
-https://github.com/Xt-Chen/SARPN
-
-https://github.com/lkhphuc/pytorch-3d-point-cloud-generation
-
-https://github.com/karoly-hars/DE_resnet_unet_hyb
-
-https://github.com/svip-lab/PlanarReconstruction
-
-https://github.com/syinari0123/tridepth
-
-https://github.com/imran3180/depth-map-prediction
-
-https://github.com/karoly-hars/DE_resnet_unet_hyb
-
-https://github.com/jiajunwu/marrnet
-
-https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/
-
-https://github.com/ethz-asl/hfnet
