@@ -151,3 +151,5 @@ https://github.com/karoly-hars/DE_resnet_unet_hyb
 https://github.com/jiajunwu/marrnet
 
 https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/
+
+https://github.com/ethz-asl/hfnet
