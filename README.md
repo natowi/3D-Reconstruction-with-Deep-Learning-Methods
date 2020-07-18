@@ -152,5 +152,5 @@
 |                                                              |                       |                                                              |         |
 |                                                              |                       |                                                              |         |
 
-
+https://github.com/autonomousvision/differentiable_volumetric_rendering
 
