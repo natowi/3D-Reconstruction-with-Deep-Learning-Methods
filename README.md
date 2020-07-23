@@ -155,3 +155,7 @@
 https://github.com/autonomousvision/differentiable_volumetric_rendering
 
 https://github.com/Dok11/surface-match-dataset
+
+Image-based 3D Object Reconstruction:State-of-the-Art and Trends in the DeepLearning Era https://arxiv.org/pdf/1906.06543v3.pdf
+
+Dense 3D Object Reconstructionfrom a Single Depth View https://arxiv.org/pdf/1802.00411v2.pdf
