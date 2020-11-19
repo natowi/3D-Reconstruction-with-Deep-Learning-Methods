@@ -116,7 +116,6 @@
 | Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | torch, tensorflow | https://github.com/svip-lab/PlanarReconstruction             | MIT          |             |
 | TriDepth: Triangular Patch-based Deep Depth Prediction       | PyTorch           | https://github.com/syinari0123/tridepth                      | MIT          |             |
 | Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | torch             | https://github.com/imran3180/depth-map-prediction            | nn           |             |
-
 | Hybrid CNN for Single Image Depth Estimation                 | torch             | https://github.com/karoly-hars/DE_resnet_unet_hyb            | BSD-3-Clause |             |
 | MarrNet: 3D Shape Reconstruction via 2.5D Sketches           | torch             | https://github.com/jiajunwu/marrnet                          | nn           |             |
 | Consistent Video Depth Estimation                            |                   | https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/ | nn           |             |
@@ -132,6 +131,7 @@
 | MarrNet: 3D Shape Reconstruction via 2.5D Sketches           | torch             | https://github.com/jiajunwu/marrnet                          | nn           |             |
 | Consistent Video Depth Estimation                            |                   | https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/ | nn           |             |
 | HF-Net: Robust Hierarchical Localization at Large Scale      | torch, tensorflow | https://github.com/ethz-asl/hfnet                            | MIT          |             |
+
 
 
 **Other Projects**
