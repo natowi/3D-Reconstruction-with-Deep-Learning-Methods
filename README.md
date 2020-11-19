@@ -1,4 +1,4 @@
-# 3D-Reconstruction-with-Neural-Network
+# 3D-Reconstruction-with-Deep-Learning-Methods
 
 **Projects released on Github**
 
