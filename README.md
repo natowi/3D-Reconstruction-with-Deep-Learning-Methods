@@ -1,5 +1,7 @@
 # 3D-Reconstruction-with-Deep-Learning-Methods
 
+The focus of this list is on on open-source projects hosted on Github.
+
 **Projects released on Github**
 
 | TITLE                                                        | KEYWORDS                    | URL                                                          | LICENSE                                                      | Awesomeness |
