@@ -167,3 +167,7 @@ Image-based 3D Object Reconstruction:State-of-the-Art and Trends in the DeepLear
 Dense 3D Object Reconstructionfrom a Single Depth View https://arxiv.org/pdf/1802.00411v2.pdf
 
 https://github.com/gradslam/gradslam pyTorch
+
+https://github.com/ventusff/neurecon
+
+https://github.com/theICTlab/3DUNDERWORLD-SLS-GPU_CPU
