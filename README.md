@@ -156,6 +156,8 @@ The focus of this list is on open-source projects hosted on Github.
 |                                                              |                       |                                                              |         |
 |                                                              |                       |                                                              |         |
 
+I2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs (CVPR 2023) https://github.com/jingsenzhu/i2-sdf MIT 
+
 https://github.com/lioryariv/idr
 
 https://github.com/autonomousvision/differentiable_volumetric_rendering
